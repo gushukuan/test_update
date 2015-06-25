@@ -1,16 +1,1 @@
-{
-	"packageUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/",
-	"remoteManifestUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/project_dev.manifest",
-	"remoteVersionUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/version_dev.manifest",
-	"version" : “1.0.1”,
-	"engineVersion" : "3.0 beta",
-
-	"assets" : {
-		"Images/background_gu.png” : {
-			"md5" : "..."
-		}
-	},
-    
-    "searchPaths" : [
-    ]
-}
+{"packageUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/","remoteManifestUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/project_dev.manifest","remoteVersionUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/version_dev.manifest","version" : “1.0.1”,"engineVersion" : "3.0 beta","assets" : {"image/background_gu.png” : {"md5" : "..."}},"searchPaths" : []}
